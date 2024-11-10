@@ -1,5 +1,12 @@
-name = input("Please enter your name: ")
-age = input("Please enter your age: ")
-location = input("Please enter your location: ")
+# name = input("Please enter your name: ")
+# age = input("Please enter your age: ")
+# location = input("Please enter your location: ")
 
-print(f"Hello {name}, you are {age} years old and live in {location}.")
+# print(f"Hello {name}, you are {age} years old and live in {location}.")
+
+# phonebook = {
+#     "name": "Chris",
+#     "email": "bolochristopher99@gmail.com",
+#     "number": "0718272961"
+# }
+# print(f"Your name is{phonebook[name]}, email is{phonebook[email]} and the phone number is{phonebook[number]}")
