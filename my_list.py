@@ -28,3 +28,5 @@ print(f"After sorting: {my_list}")
 # 7. Find index of value 30
 index_of_30 = my_list.index(30)
 print(f"Index of 30: {index_of_30}")
+
+
