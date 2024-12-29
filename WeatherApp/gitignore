@@ -1,0 +1,38 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Django stuff:
+*.log
+*.pot
+*.pyc
+*.sqlite3
+
+# Environment variables
+.env
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+
+# Static and media folders (optional, if using a CDN or not tracking)
+staticfiles/
+media/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Git
+.git/
+
+# Python virtual environment
+venv/
+env/
