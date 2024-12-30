@@ -20,7 +20,7 @@ __pycache__/
 .vscode/
 *.swp
 
-# Static and media folders (optional, if using a CDN or not tracking)
+# Static and media folders 
 staticfiles/
 media/
 
